@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jwoods02
+- 👀 I’m interested in learning and building on the web with JS
+- 🌱 I’m currently learning AWS serverless services and getting better with React
+- 💞️ I’m looking to collaborate on JS projects
+- 📫 How to reach me: https://jameswoods.co.uk
